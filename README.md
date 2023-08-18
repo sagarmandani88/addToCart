@@ -17,6 +17,8 @@ Assuming you have all the requirements installed, you can setup and run the proj
 * yarn or npm install to install the dependencies
 * npm start
 
+<hr /> 
+Configration - node version - 16.19.1  
 <hr />   
 React JS(website screenshot)
 <hr />   
